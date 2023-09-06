@@ -15,7 +15,7 @@ export class News extends Component {
           "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
           "publishedAt": "2020-04-27T11:41:47Z",
           "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
-        },
+        }, // this is dummy comment
         {
           "source": {
             "id": "espn-cric-info",
