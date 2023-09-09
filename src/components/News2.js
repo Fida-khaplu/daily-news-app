@@ -42,7 +42,8 @@ export class News extends Component {
   render() {
     return (
       <div className='container'>
-        <h2> Daily News  </h2>
+        {/* this is header */}
+        <h2> Daily News  </h2> // this is
         {this.state.articles.map((element)=>{
             console.log(element);
             
