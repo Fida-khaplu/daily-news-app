@@ -8,6 +8,9 @@ import Navbar from "./components/Navbar";
 import News from "./components/News";
 import LoadingBar from "react-top-loading-bar";
 
+
+// Class Base Components 
+
 export default class App extends Component {
   pageSize = 12;
   state={
